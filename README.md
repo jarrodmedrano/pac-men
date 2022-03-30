@@ -2,6 +2,8 @@
 
 Pac-Man factory exercise
 
+This is a simple example of using array methods to produce pac-man animations that move randomly about the screen. To install it simply clone this repository and open the index.html file.
+
 [https://jarrodmedrano.github.io/pac-men/](https://jarrodmedrano.github.io/pac-men/)
 
 ![Pac-man](/images/pac-man-screenshot.png)
